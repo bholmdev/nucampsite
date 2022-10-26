@@ -2,3 +2,7 @@ node_modules
 bootstrap-grid-example.html
 breakpoint-examples.html
 utilities_demo.html
+table_demo.html
+card_demo.html
+image-demo.html
+css/image-demo.css
