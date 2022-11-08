@@ -20,6 +20,10 @@ header h2 {
   color: white;
   margin: 0; }
 
+  .modal-header {
+    background-color: #17a2b8;
+  }
+
 .row-content {
   padding: 50px 0;
   border-bottom: 1px ridge;
